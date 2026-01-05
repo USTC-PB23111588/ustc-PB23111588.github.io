@@ -111,6 +111,6 @@ languages:
 awards:
   - title: Best Paper Award
     awarder: NeurIPS
-    date: "2026-1-5"
+    date: "2026-01-05"
     summary: Awarded for groundbreaking work on efficient training of large models.
     icon: hero/trophy
