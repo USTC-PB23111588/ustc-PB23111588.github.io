@@ -2,18 +2,18 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
-  alternate: ''  # Example: 王伟
+  display: Zicheng Yan
+  given: Zicheng
+  family: Yan
+  alternate: '严梓诚'  # Example: 王伟
   pronunciation: ''  # Example: Wáng Wěi
   pronouns: he/him
 postnominals:
-  - PhD
+  - Undergraduate
   - MIEEE
 status:
   icon: "☕️"
-role: Senior AI Research Scientist
+role: Student
 bio: |
   Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
   has been published in top conferences like NeurIPS and ICML, with over
@@ -21,8 +21,8 @@ bio: |
   while ensuring ethical development.
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: University of Science and Technology of China
+    url: https://www.ustc.com/
 
 links:
   - icon: at-symbol
@@ -111,6 +111,6 @@ languages:
 awards:
   - title: Best Paper Award
     awarder: NeurIPS
-    date: "2022-12-01"
+    date: "2026-1-5"
     summary: Awarded for groundbreaking work on efficient training of large models.
     icon: hero/trophy
